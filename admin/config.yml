@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: pejuang-onlien/pejuang-onlien/blog
+  repo: pejuang-onlien/blog
   branch: main
 publish_mode: editorial_workflow
 media_folder: "assets/images"
